@@ -1,0 +1,42 @@
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border-style: solid;
+    float: left;
+    width: 960px;
+    margin-right: 25%;
+    margin-left: 10%;
+
+}
+
+#YourName {
+    background-color: #4aaaa5;
+    color: white;
+    font: Serif;
+    float: left;
+}
+
+
+
+}
+
+.Links {
+    float:right;
+    color: #cccccc;
+    vertical-align: middle;
+
+}
+
+#MaxPic {
+    Transform: rotate(90deg);
+    height: 300px;
+
+}
+
+#BackGround {
+    margin-left: 10%;
+
+}
+
+
+
