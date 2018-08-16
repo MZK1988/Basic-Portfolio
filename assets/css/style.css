@@ -3,7 +3,7 @@
     float: left;
     width: 960px;
     margin-left: 10%;
-    border-bottom: 6px;
+    border-bottom: solid 6px;
     border-color: #cccccc;
     background color: #ffffff;
 
@@ -27,31 +27,33 @@
     color: #cccccc;
     vertical-align: middle;
     font: serif;
-    font-size: 20px;
+    font-size: 15px;
+    margin-right: 10px;
 
 }
 #BackGround {
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
     float: left;
     width: 960px;
     background-color: #ffffff;
 }
 
 #AboutMeHeader {
-    border-bottom: 2px;
-    border-style: solid;
+    border-bottom: solid 2px;
+    border-color:  #4aaaa5;
 }
 
 #AboutMe {
     color:  #4aaaa5;
 }
 
+
 #MaxPic {
     Transform: rotate(90deg);
     height: 100px;
     float: left;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     margin-left: 0;
 }
 
