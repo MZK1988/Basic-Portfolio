@@ -53,6 +53,29 @@ body {
     margin-right: 5%;
     margin-bottom: 5%;
     line-height: 1.5;
+    color: #cccccc;
+}
+
+.image {
+    position: relative;
+}
+
+.input {
+    width: 100%;  
+}
+
+#submit {
+    background-color: #4aaaa5;
+    color: white;
+    font: serif;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
 }
 
 
